@@ -70,7 +70,7 @@ const BookDetails = () => {
             </div>
             <div className="divider lg:divider-horizontal" />
             <div className="grid flex-shrink my-20">
-              <div className="flex flex-col space-y-5 pl-4">
+              <div className="flex flex-col space-y-5 lg:pl-4">
                 <h2 className="text-2xl text-black font-bold">
                   The Shadow Sister <div className="badge badge-secondary text-xs">Romance</div>
                 </h2>
